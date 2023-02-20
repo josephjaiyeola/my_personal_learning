@@ -1,0 +1,7 @@
+// online C compiler to run c program online
+#include <stdio.h>
+int main() {
+
+	printf("Hello, World");
+	return 0;
+}
